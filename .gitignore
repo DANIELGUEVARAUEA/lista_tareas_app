@@ -1,0 +1,19 @@
+# Carpeta generada por PyInstaller
+build/
+
+# Ejecutables y archivos compilados
+dist/
+*.spec
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+venv/
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
