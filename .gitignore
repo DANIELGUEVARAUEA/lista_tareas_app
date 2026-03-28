@@ -1,10 +1,6 @@
 # Carpeta generada por PyInstaller
 build/
 
-# Ejecutables y archivos compilados
-dist/
-*.spec
-
 # Archivos de Python
 __pycache__/
 *.pyc
